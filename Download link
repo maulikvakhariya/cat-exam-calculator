@@ -3,3 +3,5 @@
 https://github.com/maulikvakhariya/cat-exam-calculator/releases/latest
 
 Extract the ZIP and run the `.exe` inside — no installation required.
+
+Windows SmartScreen may show a warning since this is an unsigned, independently built app. Click "More info" → "Run anyway" to proceed. Source code is fully visible in this repo for verification
